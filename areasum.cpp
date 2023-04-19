@@ -18,7 +18,6 @@ int main(void)
     cin >> num >> count;
     
     // 입력받으면서 누적합을 계산
-    int sum = 0;
     int arr[num];
     for (int i = 0; i < num; i++) {
         int a;
